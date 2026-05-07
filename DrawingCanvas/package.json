@@ -1,0 +1,16 @@
+{
+  "name": "drawingcanvas",
+  "version": "1.0.0",
+  "description": "A simple canvas-based drawing app demonstrating integration with HTML5 Canvas in Tesserae.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
