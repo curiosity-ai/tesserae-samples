@@ -1,0 +1,11 @@
+{
+  "output": "bin/Debug/netstandard2.0/h5/",
+  "resources": [
+    {
+      "extract": true
+    }
+  ],
+  "html": {
+    "title": "Tesserae Image Gallery"
+  }
+}
