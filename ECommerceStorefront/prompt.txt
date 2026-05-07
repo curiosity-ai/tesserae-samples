@@ -1,0 +1,12 @@
+You are an expert C# developer familiar with the Tesserae UI toolkit and the h5 compiler.
+Your task is to implement the following sample application:
+
+**ECommerceStorefront**
+A mock online store showing product cards, a shopping cart, and checkout flow concepts.
+
+Requirements:
+- Use only C# and the Tesserae toolkit (no direct HTML/JS unless strictly necessary for the drawing canvas sample).
+- Build the UI components using Tesserae's static UI factory methods (e.g., `UI.Button()`, `UI.Stack()`).
+- Add tests using Playwright to interact with the rendered application and verify functionality.
+- Structure your code cleanly within the `App.cs` or in dedicated component files.
+- Remember to configure `h5.json` properly if you add extra resources.
