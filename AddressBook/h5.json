@@ -1,0 +1,7 @@
+{
+  "output": "$(OutDir)/h5/",
+  "html": {
+    "title": "AddressBook",
+    "name": "index"
+  }
+}
