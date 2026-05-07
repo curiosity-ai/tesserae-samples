@@ -1,8 +1,10 @@
 <Project Sdk="h5.Target/25.11.62725">
     <PropertyGroup>
-        <TargetFramework>netstandard2.1</TargetFramework>
+        <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>7.2</LangVersion>
         <NoWarn>$(NoWarn);NU1605</NoWarn>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <DefaultItemExcludes>$(DefaultItemExcludes);tests\**</DefaultItemExcludes>
     </PropertyGroup>
 
     <ItemGroup>
@@ -10,5 +12,6 @@
         <PackageReference Include="h5" Version="26.2.64514" />
         <PackageReference Include="h5.core" Version="26.4.580" />
         <PackageReference Include="h5.Newtonsoft.Json" Version="26.3.65451" />
+        <PackageReference Include="h5.httpclient" Version="26.3.65455" />
   </ItemGroup>
 </Project>
