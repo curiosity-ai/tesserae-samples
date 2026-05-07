@@ -1,0 +1,36 @@
+{
+  "output": "$(OutDir)/h5/",
+  "html": {
+    "disabled": false,
+    "title": "ECommerce Storefront"
+  },
+  "resources": [
+    {
+      "name": "images",
+      "files": [ "assets/img/*" ],
+      "output": "assets/img"
+    },
+    {
+      "name": "products.json",
+      "files": [ "products.json" ],
+      "output": "products.json"
+    }
+  ],
+  "cleanOutputFolderBeforeBuildPattern": "*.js|*.css|*.json",
+  "console": { "enabled": false },
+  "loader": { "type": "Global" },
+  "sourceMap": { "enabled": true },
+  "generateTypeScript": false,
+  "report": { "enabled": false },
+  "rules": {
+    "anonymousType": "Plain",
+    "arrayIndex": "Managed",
+    "autoProperty": "Plain",
+    "boxing": "Managed",
+    "externalCast": "Plain",
+    "inlineComment": "Plain",
+    "integer": "Managed",
+    "lambda": "Plain",
+    "useShortForms": true
+  }
+}
