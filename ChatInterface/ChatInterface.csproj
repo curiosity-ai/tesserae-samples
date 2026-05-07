@@ -6,6 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="h5.httpclient" Version="26.3.65455" />
         <PackageReference Include="Tesserae" Version="2026.5.66312" />
         <PackageReference Include="h5" Version="26.2.64514" />
         <PackageReference Include="h5.core" Version="26.4.580" />
