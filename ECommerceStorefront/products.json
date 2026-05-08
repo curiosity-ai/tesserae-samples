@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "1",
+    "Name": "Laptop Pro",
+    "Description": "High performance laptop for professionals.",
+    "Price": 1299.99,
+    "ImageUrl": "assets/img/placeholder.png"
+  },
+  {
+    "Id": "2",
+    "Name": "Smartphone X",
+    "Description": "The latest smartphone with amazing camera.",
+    "Price": 799.99,
+    "ImageUrl": "assets/img/placeholder.png"
+  },
+  {
+    "Id": "3",
+    "Name": "Wireless Headphones",
+    "Description": "Noise cancelling wireless headphones.",
+    "Price": 199.99,
+    "ImageUrl": "assets/img/placeholder.png"
+  },
+  {
+    "Id": "4",
+    "Name": "Smartwatch",
+    "Description": "Track your fitness and stay connected.",
+    "Price": 249.99,
+    "ImageUrl": "assets/img/placeholder.png"
+  },
+  {
+    "Id": "5",
+    "Name": "Tablet Mini",
+    "Description": "Compact and powerful tablet.",
+    "Price": 399.99,
+    "ImageUrl": "assets/img/placeholder.png"
+  },
+  {
+    "Id": "6",
+    "Name": "Gaming Console",
+    "Description": "Next-gen gaming experience.",
+    "Price": 499.99,
+    "ImageUrl": "assets/img/placeholder.png"
+  }
+]
