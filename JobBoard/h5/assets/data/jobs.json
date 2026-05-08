@@ -1,0 +1,22 @@
+[
+  { "Id": 1, "Title": "Software Engineer", "Role": "Engineering", "Company": "TechCorp", "Location": "San Francisco, CA", "Description": "Develop and maintain web applications." },
+  { "Id": 2, "Title": "Product Manager", "Role": "Product", "Company": "InnovateX", "Location": "New York, NY", "Description": "Lead product development and strategy." },
+  { "Id": 3, "Title": "UX Designer", "Role": "Design", "Company": "CreativeInc", "Location": "Remote", "Description": "Design intuitive user interfaces." },
+  { "Id": 4, "Title": "Data Scientist", "Role": "Engineering", "Company": "DataWorks", "Location": "Austin, TX", "Description": "Analyze large datasets and build machine learning models." },
+  { "Id": 5, "Title": "Marketing Specialist", "Role": "Marketing", "Company": "BrandCo", "Location": "Chicago, IL", "Description": "Execute marketing campaigns and manage social media." },
+  { "Id": 6, "Title": "DevOps Engineer", "Role": "Engineering", "Company": "CloudSys", "Location": "Seattle, WA", "Description": "Maintain cloud infrastructure and CI/CD pipelines." },
+  { "Id": 7, "Title": "HR Manager", "Role": "HR", "Company": "PeopleFirst", "Location": "Boston, MA", "Description": "Manage human resources and recruitment." },
+  { "Id": 8, "Title": "Sales Representative", "Role": "Sales", "Company": "SellIt", "Location": "Denver, CO", "Description": "Drive sales and manage client relationships." },
+  { "Id": 9, "Title": "Graphic Designer", "Role": "Design", "Company": "ArtStudio", "Location": "Los Angeles, CA", "Description": "Create visual concepts for marketing materials." },
+  { "Id": 10, "Title": "Frontend Developer", "Role": "Engineering", "Company": "WebWorks", "Location": "Remote", "Description": "Build responsive user interfaces using modern frameworks." },
+  { "Id": 11, "Title": "Backend Developer", "Role": "Engineering", "Company": "ServerSys", "Location": "Austin, TX", "Description": "Develop and maintain server-side logic and databases." },
+  { "Id": 12, "Title": "Product Designer", "Role": "Design", "Company": "InnovateX", "Location": "New York, NY", "Description": "Design end-to-end user experiences." },
+  { "Id": 13, "Title": "Data Analyst", "Role": "Engineering", "Company": "DataWorks", "Location": "Austin, TX", "Description": "Analyze data and generate reports." },
+  { "Id": 14, "Title": "Content Writer", "Role": "Marketing", "Company": "BrandCo", "Location": "Chicago, IL", "Description": "Write engaging content for blogs and websites." },
+  { "Id": 15, "Title": "System Administrator", "Role": "Engineering", "Company": "CloudSys", "Location": "Seattle, WA", "Description": "Manage and maintain IT infrastructure." },
+  { "Id": 16, "Title": "Recruiter", "Role": "HR", "Company": "PeopleFirst", "Location": "Boston, MA", "Description": "Source and hire top talent." },
+  { "Id": 17, "Title": "Account Executive", "Role": "Sales", "Company": "SellIt", "Location": "Denver, CO", "Description": "Manage key accounts and drive revenue." },
+  { "Id": 18, "Title": "UI Designer", "Role": "Design", "Company": "ArtStudio", "Location": "Los Angeles, CA", "Description": "Design user interfaces for web and mobile apps." },
+  { "Id": 19, "Title": "Full Stack Developer", "Role": "Engineering", "Company": "WebWorks", "Location": "Remote", "Description": "Develop both frontend and backend systems." },
+  { "Id": 20, "Title": "Software Architect", "Role": "Engineering", "Company": "TechCorp", "Location": "San Francisco, CA", "Description": "Design and oversee the development of software systems." }
+]

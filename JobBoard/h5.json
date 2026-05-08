@@ -1,0 +1,53 @@
+// See all h5.json configuration options at https://github.com/h5dotnet/Bridge/wiki/global-configuration
+{
+  "output": "$(OutDir)/h5/",
+  "fileName": "app.js",
+  "html": {
+    "disabled": false,
+    "title": "Job Board"
+  },
+  "rules": {
+    "anonymousType": "Plain",
+    "arrayIndex": "Managed",
+    "autoProperty": "Plain",
+    "boxing": "Managed",
+    "externalCast": "Plain",
+    "inlineComment": "Plain",
+    "integer": "Managed",
+    "lambda": "Plain",
+    "useShortForms": true
+  },
+  "resources": [
+    {
+      "name": "images",
+      "files": [ "h5/assets/img/*" ],
+      "output": "assets/img"
+    },
+    {
+      "name": "data",
+      "files": [ "h5/assets/data/jobs.json" ],
+      "output": "assets/data/"
+    }
+  ],
+  "cleanOutputFolderBeforeBuildPattern": "*.js|*.css|*.dontload", // See warning above about not using "cleanOutputFolderBeforeBuildPattern": "*.*"
+  "console": { "enabled": false },
+  "loader": { "type": "Global" },
+  "sourceMap": { "enabled": true },
+  "reflection": {
+    "disabled": false,
+    "target":  "inline"
+  },
+  "generateTypeScript": false,
+  "report": { "enabled": false },
+  "rules": {
+    "anonymousType": "Plain",
+    "arrayIndex": "Managed",
+    "autoProperty": "Plain",
+    "boxing": "Managed",
+    "externalCast": "Plain",
+    "inlineComment": "Plain",
+    "integer": "Managed",
+    "lambda": "Plain",
+    "useShortForms": true
+  }
+}
